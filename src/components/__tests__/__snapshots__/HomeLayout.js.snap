@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeLayout Component renders correctly 1`] = `
+<div
+  className="sc-bxivhb dvXZAB"
+>
+  <div
+    className="sc-ifAKCX dihmFK"
+  >
+    (c) Sela. 
+    2019
+  </div>
+</div>
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component renders correctly 1`] = `
+<div
+  className="sc-bdVaJa kyiZwp"
+>
+  (c) Sela. 
+  2019
+</div>
+`;

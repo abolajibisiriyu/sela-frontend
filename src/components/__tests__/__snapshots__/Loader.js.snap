@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader Component renders correctly 1`] = `
+<aside
+  className="sc-bdVaJa fbCJFE"
+>
+  <div
+    className="css-lyovzr-Loader"
+  >
+    <div
+      className="css-19fnvi4-style"
+    />
+    <div
+      className="css-eink1d-style"
+    />
+    <div
+      className="css-19fnvi4-style"
+    />
+  </div>
+</aside>
+`;

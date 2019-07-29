@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Project Component renders correctly 1`] = `
+<div
+  className="sc-dnqmqq bbYYsK"
+>
+  <div
+    className="sc-bdVaJa kUqfXj"
+  >
+    <div
+      className="sc-htpNat ktkQoa"
+    >
+      Not initiated
+    </div>
+    <div
+      className="sc-iwsKbI jhhxNu"
+    >
+      <div
+        className="progress-text"
+      >
+        0
+        % progress
+      </div>
+      <div
+        className="innerBar"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-bwzfXH iuwPrx"
+  >
+    <div
+      className="sc-bxivhb bUZGRr"
+    >
+      <h4
+        className="small-size sc-gZMcBi dKBmKK"
+      >
+        Construction of Health Center
+      </h4>
+    </div>
+    <div
+      className="sc-ifAKCX kqYPcK"
+    >
+      <span>
+        <svg
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          strokeWidth="0"
+          style={
+            Object {
+              "color": undefined,
+            }
+          }
+          viewBox="0 0 384 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"
+          />
+        </svg>
+         
+        Ikorodu, Lagos
+      </span>
+      <span>
+        <svg
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          strokeWidth="0"
+          style={
+            Object {
+              "color": undefined,
+            }
+          }
+          viewBox="0 0 640 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M352 288h-16v-88c0-4.42-3.58-8-8-8h-13.58c-4.74 0-9.37 1.4-13.31 4.03l-15.33 10.22a7.994 7.994 0 0 0-2.22 11.09l8.88 13.31a7.994 7.994 0 0 0 11.09 2.22l.47-.31V288h-16c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8h64c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8zM608 64H32C14.33 64 0 78.33 0 96v320c0 17.67 14.33 32 32 32h576c17.67 0 32-14.33 32-32V96c0-17.67-14.33-32-32-32zM48 400v-64c35.35 0 64 28.65 64 64H48zm0-224v-64h64c0 35.35-28.65 64-64 64zm272 192c-53.02 0-96-50.15-96-112 0-61.86 42.98-112 96-112s96 50.14 96 112c0 61.87-43 112-96 112zm272 32h-64c0-35.35 28.65-64 64-64v64zm0-224c-35.35 0-64-28.65-64-64h64v64z"
+          />
+        </svg>
+         Budget: NGN
+        55,000
+      </span>
+    </div>
+    <div
+      className="sc-EHOje eciVgj"
+    >
+      <p
+        className="sc-gqjmRU dwFvyl"
+      >
+        The people of Ikorodu have long sought for a solution to the perennial water crisis plaguing the community. Help came when community members took a...
+         
+        <a
+          className="read-more sc-VigVT kkRxWA"
+        >
+          Read More
+        </a>
+      </p>
+    </div>
+    <div
+      className="sc-bZQynM dhPhZC"
+    >
+      <h4
+        className="sc-gZMcBi dKBmKK"
+      >
+        Contractors
+      </h4>
+      <div
+        className="contractors"
+      >
+        <img
+          alt="John Doe"
+          src="https://res.cloudinary.com/abolajibisiriyu/image/upload/v1564081614/sela/contractors/contractor.svg"
+        />
+        <img
+          alt="Flutterwave"
+          src="https://res.cloudinary.com/abolajibisiriyu/image/upload/v1564317059/sela/contractors/contractor_1.svg"
+        />
+      </div>
+    </div>
+    <div
+      className="sc-gzVnrw jyBrwk"
+    >
+      <a
+        className="sc-htoDjs iPwRJW"
+      >
+        View More Details 
+        <svg>
+          forward icon.svg
+        </svg>
+      </a>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar Component renders correctly 1`] = `
+<div
+  className="sc-bdVaJa hlmBpM"
+>
+  <div
+    className="progress-text"
+  >
+    % progress
+  </div>
+  <div
+    className="innerBar"
+  />
+</div>
+`;
