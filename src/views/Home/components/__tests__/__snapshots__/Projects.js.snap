@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Projects Component renders correctly 1`] = `
+<div>
+  <section
+    className="sc-bxivhb krOwCY"
+  >
+    <div
+      className="sc-bdVaJa kIlXyG"
+    >
+      <div
+        className="sc-bwzfXH eoSjYp"
+      >
+        <h4>
+          All Projects
+        </h4>
+      </div>
+      <div
+        className="sc-gzVnrw pQFvb"
+      >
+        <div
+          className="sc-ifAKCX gBnDME"
+        >
+          <h3>
+            Sort by:
+          </h3>
+        </div>
+        <div
+          className="sc-bZQynM ikNgyi"
+        >
+          <select
+            className="sc-EHOje jTMlhU"
+            onChange={[Function]}
+          >
+            <option
+              value=""
+            >
+              None
+            </option>
+            <option
+              value="budget"
+            >
+              Budget
+            </option>
+            <option
+              value="startDate"
+            >
+              Start date
+            </option>
+            <option
+              value="endDate"
+            >
+              End Date
+            </option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-htpNat jlmioB"
+    />
+  </section>
+</div>
+`;

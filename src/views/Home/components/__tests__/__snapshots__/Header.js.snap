@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component renders correctly 1`] = `
+<header
+  className="sc-htpNat Vdir"
+>
+  <nav
+    className="sc-ifAKCX dLTBno"
+  >
+    <a
+      className="sc-bxivhb bZRlOK"
+      href="#"
+    >
+      SELA
+    </a>
+  </nav>
+  <div
+    className="sc-bwzfXH cEfGpb"
+  >
+    <h4
+      className="big-size sc-EHOje knDRfy"
+    >
+      Keep track of development 
+      <br />
+       projects near you
+    </h4>
+    <p
+      className="big-size sc-bZQynM lolnPI"
+    >
+      The Sela Platform enables stakeholders share real time information
+       
+      <br />
+      on the state of infrastructure projects to ensure transparent delivery
+    </p>
+    <a
+      className="sc-bdVaJa cXUSDU"
+    >
+      <span>
+        SEE PROJECTS
+      </span>
+      <span>
+        <img
+          alt="scroll down"
+          src="expand-icon.svg"
+        />
+      </span>
+    </a>
+  </div>
+</header>
+`;

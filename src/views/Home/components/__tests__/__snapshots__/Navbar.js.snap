@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar Component renders correctly 1`] = `
+<nav
+  className="sc-bwzfXH cusHsC"
+>
+  <a
+    className="sc-bdVaJa fJhYRb"
+    href="#"
+  >
+    SELA
+  </a>
+</nav>
+`;
