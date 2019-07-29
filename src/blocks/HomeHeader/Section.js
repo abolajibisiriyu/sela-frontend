@@ -17,4 +17,19 @@ export default styled.div`
   & > a {
     margin-top: 150px;
   }
+
+  @media only screen and (min-width: 320px) and (max-width: 479px) {
+    & > h4 {
+      margin-top: 20px;
+    }
+    & > a {
+      margin-top: 50px;
+    }
+    && > h4 {
+      font-size: 2rem;
+    }
+    && > p {
+      font-size: 1rem;
+    }
+  }
 `;

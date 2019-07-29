@@ -10,7 +10,7 @@ export default styled.a`
   justify-content: center;
   align-items: center;
   color: #ffffff;
-  font-size: 1.5em;
+  font-size: 1.5rem;
   transition: color 0.3s, border 0.3s;
   &:hover {
     color: #2d9cdb;

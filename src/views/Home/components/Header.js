@@ -1,10 +1,11 @@
 import React from "react";
-import { FiChevronDown } from "react-icons/fi";
 
 import HomeHeader from "../../../blocks/HomeHeader";
 import HomeNavbar from "./Navbar";
 import H4 from "../../../elements/H4";
 import P from "../../../elements/P";
+
+import chevronIcon from "../../../assets/images/expand-icon.svg";
 
 function Header(props) {
   return (
@@ -19,10 +20,10 @@ function Header(props) {
           <br />
           on the state of infrastructure projects to ensure transparent delivery
         </P>
-        <HomeHeader.Link>
+        <HomeHeader.Link onClick={props.executeScroll}>
           <span>SEE PROJECTS</span>
           <span>
-            <FiChevronDown size="1.5em" />
+            <img src={chevronIcon} alt="scroll down" />
           </span>
         </HomeHeader.Link>
       </HomeHeader.Section>

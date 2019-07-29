@@ -5,15 +5,15 @@ const H4 = styled.h4`
   line-height: 1.25em;
   text-align: ${props => props.textAlign || "left"};
   &.small-size {
-    font-size: 1.1em;
+    font-size: 1.1rem;
   }
 
   &.medium-size {
-    font-size: 2.1em;
+    font-size: 2.1rem;
   }
 
   &.big-size {
-    font-size: 2.65em;
+    font-size: 2.65rem;
   }
 `;
 

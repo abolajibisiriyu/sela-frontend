@@ -5,6 +5,7 @@ const Container = styled.aside`
   align-items: center;
   height: ${({ height }) => height || "100%"};
   width: 100%;
+  min-height: ${({ minHeight }) => minHeight || "500px"};
   display: flex;
 `;
 
